@@ -197,8 +197,6 @@ static Shortcut shortcuts[] = {
     { TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
     { MODKEY,               XK_KP_8,        kscrollup,      {.i = -1} },
     { MODKEY,               XK_KP_2,        kscrolldown,    {.i = -1} },
-    { MODKEY|ShiftMask,     XK_K,       kscrollup,      {.i = 1} },
-    { MODKEY|ShiftMask,     XK_J,       kscrolldown,    {.i = 1} },
     { TERMMOD,              XK_U,           externalpipe,   { .v = openurlcmd } },
 };
 
