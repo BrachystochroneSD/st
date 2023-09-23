@@ -1,6 +1,6 @@
 # Maintainer: Samuel Dawant <samueld@mailo.com>
 pkgname=zenowl-st
-pkgver=0.8.2
+pkgver=8.2
 pkgrel=1
 pkgdesc="zenowl version of st"
 arch=(x86_64)
